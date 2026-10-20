@@ -6,7 +6,7 @@
 > Leader: Vinayak
 
 ---
-
+LIVE LINK - https://moil-geosync.streamlit.app/
 ## Problem Statement
 
 MOIL Limited, India's largest manganese ore producer, faces two critical challenges:
